@@ -7,7 +7,7 @@
 [bg  time="100"  storage="CharaStudio-2026-01-16-22-58-02-Render.jpg"  _tb_parts_type="bg"  method="fadeIn"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-最終更新日2026/08/01（It is currently in production.）[p]
+最終更新日2026/08/11（It is currently in production.）[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -31,6 +31,8 @@
 [button graphic="thumbnail/i1.jpg" enterimg="thumbnail/i2.jpg" x=726 y=450 width=230 height=150 storage="i.ks" target="*start"]
 
 [button graphic="thumbnail/j1.jpg" enterimg="thumbnail/j2.jpg" x=1026 y=50 width=230 height=150 storage="j.ks" target="*start"]
+
+[button graphic="thumbnail/k1.jpg" enterimg="thumbnail/k2.jpg" x=1026 y=250 width=230 height=150 storage="k.ks" target="*start"]
 [_tb_end_tyrano_code]
 
 [s  ]
