@@ -7,7 +7,7 @@
 [bg  time="100"  storage="CharaStudio-2026-01-16-22-58-02-Render.jpg"  _tb_parts_type="bg"  method="fadeIn"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-最終更新日2026/08/31（It is currently in production.）[p]
+最終更新日2026/11/07（It is currently in production.）[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
